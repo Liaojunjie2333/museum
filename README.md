@@ -63,7 +63,7 @@
 ***
 - [原型文档展示](http://nfunm047.gitee.io/museum__prototype)
 
-- [原型文档下载地址](https://github.com/Liaojunjie2333/Prototype-document-Museum](https://github.com/Liaojunjie2333/Prototype-document-Museum)
+- [原型文档下载地址](https://github.com/Liaojunjie2333/Prototype-document-Museum)
 
 #### 微信授权模块
 
@@ -93,15 +93,32 @@
 
 
 #### 我的相册模块
-***
+
 ![我的相册01.png](https://upload-images.jianshu.io/upload_images/9455181-8cddce9299cba791.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![我的相册02.png](https://upload-images.jianshu.io/upload_images/9455181-8c4ec6822c3ed8f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-### 2. 加值——交互及界面设计
+#### 2. 加值——交互及界面设计
 
-### 3. 加值——信息设计
+- 在【手势特效拍摄】模块中，【步骤3、4】使用了人工智能——手势识别的加值；即：
+
+![手势特效03.png](https://upload-images.jianshu.io/upload_images/9455181-ee0f588d7d2dee42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 在【回到过去】模块中，【步骤4】使用了人工智能——人脸融合的加值；即：
+
+![回到过去04.png](https://upload-images.jianshu.io/upload_images/9455181-1a28165fbb8ffa4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+#### 3. 加值——信息设计
+
+- 在【手势特效拍摄】模块中，【步骤3、4】使用了人工智能——手势识别的加值，如下所示：
+
+![手势特效03.png](https://upload-images.jianshu.io/upload_images/9455181-ee0f588d7d2dee42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+- 在【回到过去】模块中，【步骤4】使用了人工智能——人脸融合的加值，如下所示：
+
+![回到过去04.png](https://upload-images.jianshu.io/upload_images/9455181-1a28165fbb8ffa4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 
