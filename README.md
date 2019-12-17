@@ -103,7 +103,7 @@
 ### 4. 原型文档——展示、下载区
 - [原型文档——展示](http://nfunm047.gitee.io/museum__prototype)
 
-- [原型文档——下载地址]([https://github.com/Liaojunjie2333/Prototype-document-Museum](https://github.com/Liaojunjie2333/Prototype-document-Museum)
+- [原型文档——下载地址]([https://github.com/Liaojunjie2333/Prototype-document-Museum](https://github.com/Liaojunjie2333/Prototype-document-Museum))
 
 
 
