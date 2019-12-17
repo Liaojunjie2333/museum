@@ -1,4 +1,5 @@
 # museum
+
  |发布日期 | 2019-12-10 | 
 -|-|
 项目名称| 博物馆-动静皆宜 | 
@@ -9,8 +10,7 @@
 项目测试者| 廖俊杰| 
 ### 一、加值宣言
 *** 
-- 如今，人们的文化需求日益增长。越来越多的人喜欢到博物馆参观，以作消遣、也能拓宽视野。但博物馆内的参观者众多，难免会有“好动者”（注意力不集中，好动）和“好静者”（只想坐着静静）走进博物馆参观展品。在参观过程中，“好动者”需要一些能够吸引他们的事物，“好静者”则需要一些能够放松自身、休息的事物。
-- 基于现状，我们将采用“百度AI——手势识别API”、“百度AI——人脸融合API”来对博物馆进行加值。
+- 如今，人们的文化需求日益增长。越来越多的人喜欢到博物馆参观，以作消遣、也能拓宽视野。但博物馆内的参观者众多，难免会有“好动者”（注意力不集中，好动）和“好静者”（只想坐着静静）走进博物馆参观展品。在参观过程中，“好动者”需要一些能够吸引他们的事物，“好静者”则需要一些能够放松自身、休息的事物。基于现状，我们将采用“百度AI——手势识别API”、“百度AI——人脸融合API”来对博物馆进行加值。
 - 主要：运用了“人脸与人体识别技术”中的“手势识别”技术——识别图片中的手部位置和手势类型，可识别24种常见手势，包括拳头、OK、比心、作揖、作别、祈祷、我爱你、点赞、Diss、Rock、竖中指、数字等。即输入——用户拍照时，含手势的图片，输出——含手势类型相对应特效的趣味照片。
 
 - 次要：运用了“人脸与人体识别技术”中的“人脸融合”技术——对两张人脸进行融合处理，生成的人脸同时具备两张人脸的外貌特征。即输入两张图片（用户自拍图片、博物馆展品相关历史人物图片），输出同时具备拍照用户、历史人物外貌特征的图片。
@@ -56,29 +56,66 @@
 
 ### 八、产品结构图
 ***
-待完成...
-### 九、产品使用流程图
-***
-待完成...
-### 十、产品原型
-***
-待完成：
-原型文档——交互及界面设计
-原型文档——信息设计
-原型文档——下载区
-原型文档——口头操作说明
+![产品结构图.png](https://upload-images.jianshu.io/upload_images/9455181-375d598ac83356b6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-### 十一、API的使用水平
+### 九、产品原型
+***
+#### 1.口头操作说明
+#### * 操作说明-微信授权
+***
+![博物馆-微信授权.png](https://upload-images.jianshu.io/upload_images/9455181-8ad14dcbbc7fe1eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#### * 操作说明-手势特效拍摄
+***
+![手势特效01.png](https://upload-images.jianshu.io/upload_images/9455181-96d55e3e6572e95c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![手势特效02.png](https://upload-images.jianshu.io/upload_images/9455181-14beb268d837c343.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![手势特效03.png](https://upload-images.jianshu.io/upload_images/9455181-ee0f588d7d2dee42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![手势特效04.png](https://upload-images.jianshu.io/upload_images/9455181-454a4829614b16ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+#### * 操作说明-回到过去（人脸融合）
+***
+![回到过去01.png](https://upload-images.jianshu.io/upload_images/9455181-35611e04f5f031d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![回到过去02.png](https://upload-images.jianshu.io/upload_images/9455181-7f5ae9d757360a6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![回到过去03.png](https://upload-images.jianshu.io/upload_images/9455181-f61f083ebed0d38b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![回到过去04.png](https://upload-images.jianshu.io/upload_images/9455181-1a28165fbb8ffa4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![回到过去05.png](https://upload-images.jianshu.io/upload_images/9455181-f4d767329b343e93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+#### * 操作说明-我的相册
+***
+![我的相册01.png](https://upload-images.jianshu.io/upload_images/9455181-8cddce9299cba791.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![我的相册02.png](https://upload-images.jianshu.io/upload_images/9455181-8c4ec6822c3ed8f8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+#### 2. 加值——交互及界面设计
+
+#### 3. 加值——信息设计
+
+#### 4. 原型文档——展示、下载区
+- [原型文档——展示](http://nfunm047.gitee.io/museum__prototype)
+
+-  [原型文档——下载地址]([https://github.com/Liaojunjie2333/Prototype-document-Museum](https://github.com/Liaojunjie2333/Prototype-document-Museum)
+)
+
+
+
+### 十、API的使用水平
 ***
 待完成...
-### 十二、API的使用比较分析
+### 十一、API的使用比较分析
 ***
 待完成...
 
-### 十三、API使用后风险报告
+### 十二、API使用后风险报告
 ***
 待完成...
-
-
 
