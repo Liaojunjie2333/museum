@@ -61,13 +61,16 @@
 
 ### 九、产品原型
 ***
-### 1.口头操作说明
+- [原型文档展示](http://nfunm047.gitee.io/museum__prototype)
+
+- [原型文档下载地址](https://github.com/Liaojunjie2333/Prototype-document-Museum](https://github.com/Liaojunjie2333/Prototype-document-Museum)
+
 #### 微信授权模块
-***
+
 ![博物馆-微信授权.png](https://upload-images.jianshu.io/upload_images/9455181-8ad14dcbbc7fe1eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 手势特效拍摄模块
-***
+
 ![手势特效01.png](https://upload-images.jianshu.io/upload_images/9455181-96d55e3e6572e95c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![手势特效02.png](https://upload-images.jianshu.io/upload_images/9455181-14beb268d837c343.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -77,7 +80,7 @@
 ![手势特效04.png](https://upload-images.jianshu.io/upload_images/9455181-454a4829614b16ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 回到过去（人脸融合）模块
-***
+
 ![回到过去01.png](https://upload-images.jianshu.io/upload_images/9455181-35611e04f5f031d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![回到过去02.png](https://upload-images.jianshu.io/upload_images/9455181-7f5ae9d757360a6a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -100,10 +103,8 @@
 
 ### 3. 加值——信息设计
 
-### 4. 原型文档——展示、下载区
-- [原型展示](http://nfunm047.gitee.io/museum__prototype)
 
-- [下载地址]([https://github.com/Liaojunjie2333/Prototype-document-Museum](https://github.com/Liaojunjie2333/Prototype-document-Museum)
+
 
 
 
