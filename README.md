@@ -122,7 +122,7 @@
 ![手势特效03.png](https://upload-images.jianshu.io/upload_images/9455181-ee0f588d7d2dee42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 在【回到过去】模块中；
--【步骤4】——【融合人物图片+用户人脸图片】这一核心信息使用了人工智能——“人脸融合”的加值，如下所示：
+- 【步骤4】——【融合人物图片+用户人脸图片】这一核心信息使用了人工智能——“人脸融合”的加值，如下所示：
 
 ![回到过去04.png](https://upload-images.jianshu.io/upload_images/9455181-1a28165fbb8ffa4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
