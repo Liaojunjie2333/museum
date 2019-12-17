@@ -69,6 +69,7 @@
 
 ![博物馆-微信授权.png](https://upload-images.jianshu.io/upload_images/9455181-8ad14dcbbc7fe1eb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+***
 #### 手势特效拍摄模块
 
 ![手势特效01.png](https://upload-images.jianshu.io/upload_images/9455181-96d55e3e6572e95c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -79,6 +80,7 @@
 
 ![手势特效04.png](https://upload-images.jianshu.io/upload_images/9455181-454a4829614b16ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+***
 #### 回到过去（人脸融合）模块
 
 ![回到过去01.png](https://upload-images.jianshu.io/upload_images/9455181-35611e04f5f031d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -91,7 +93,7 @@
 
 ![回到过去05.png](https://upload-images.jianshu.io/upload_images/9455181-f4d767329b343e93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
+***
 #### 我的相册模块
 
 ![我的相册01.png](https://upload-images.jianshu.io/upload_images/9455181-8cddce9299cba791.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -101,26 +103,28 @@
 
 #### 2. 加值——交互及界面设计
 
-- 在【手势特效拍摄】模块中，【步骤3、4】使用了人工智能——手势识别的加值；即：
+- 在【手势特效拍摄】模块中；
+- 【步骤3、4】——【用户手势识别——屏幕显示特效】这一核心交互环节使用了人工智能——“手势识别”的加值；即：
 
 ![手势特效03.png](https://upload-images.jianshu.io/upload_images/9455181-ee0f588d7d2dee42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 在【回到过去】模块中，【步骤4】使用了人工智能——人脸融合的加值；即：
+- 在【回到过去】模块中；
+- 【步骤4】——【人脸图片融合】这一核心交互环节使用了人工智能——“人脸融合”的加值；即：
 
 ![回到过去04.png](https://upload-images.jianshu.io/upload_images/9455181-1a28165fbb8ffa4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 #### 3. 加值——信息设计
 
-- 在【手势特效拍摄】模块中，【步骤3、4】使用了人工智能——手势识别的加值，如下所示：
+- 在【手势特效拍摄】模块中；
+- 【步骤3、4】——【用户手势+屏幕显示的特效】这一核心信息使用了人工智能——“手势识别”的加值，如下所示：
 
 ![手势特效03.png](https://upload-images.jianshu.io/upload_images/9455181-ee0f588d7d2dee42.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-- 在【回到过去】模块中，【步骤4】使用了人工智能——人脸融合的加值，如下所示：
+- 在【回到过去】模块中；
+-【步骤4】——【融合人物图片+用户人脸图片】这一核心信息使用了人工智能——“人脸融合”的加值，如下所示：
 
 ![回到过去04.png](https://upload-images.jianshu.io/upload_images/9455181-1a28165fbb8ffa4d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
 
 
 
